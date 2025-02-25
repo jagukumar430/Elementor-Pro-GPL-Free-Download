@@ -245,7 +245,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-outline"><a class="wp-block-button__link has-global-color-10-background-color has-background wp-element-button" href="[https://voneads.com/rank-math-pro-plugin-gpl-830/](https://www.voneads.com/elementor-pro-gpl-free-download-830/)" style="border-radius:8px">Elementor Pro GPL Free Download</a></div><!-- /wp:shortcode -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-outline"><a class="wp-block-button__link has-global-color-10-background-color has-background wp-element-button" href="https://voneads.com/rank-math-pro-plugin-gpl-830/" style="border-radius:8px">Elementor Pro GPL Free Download</a></div><!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Old Elementor Pro Free Download &nbsp;v3.24.3+3.24.5</h3>
